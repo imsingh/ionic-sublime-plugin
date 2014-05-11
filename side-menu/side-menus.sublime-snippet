@@ -1,0 +1,22 @@
+<snippet>
+	<content><![CDATA[
+<ion-side-menus>
+  <!-- Center content -->
+  <ion-side-menu-content ng-controller="yourController">
+  </ion-side-menu-content>
+
+  <!-- Left menu -->
+  <ion-side-menu side="left">
+  </ion-side-menu>
+
+  <!-- Right menu -->
+  <ion-side-menu side="right">
+  </ion-side-menu>
+</ion-side-menus>
+
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>ionic-side-menus</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>

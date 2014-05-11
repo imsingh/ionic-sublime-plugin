@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+<ion-radio ng-model="" ng-value="">Option 1</ion-radio>
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>ionic-radio</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>
