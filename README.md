@@ -20,54 +20,58 @@ Feel Free to let me know about issues via :
 
 <h2 id="tabs">Tabs</h2>
 
-Component | Snippet Code
-_________ | ____________
-tabs | ionic-tabs
-tab | ionic-tab
+
+| Component | Snippet Code |
+|---------- | :-----------:|
+| ion-tabs  | ionic-tabs   |
+| tab       | ionic-tab    |
+
 
 <h2 id="sidemenu">Side Menu</h2>
 
-Component | Snippet Code
-_________ | ____________
-ion-side-menus | ionic-side-menus
+| Component      | Snippet Code     |
+|----------------| :---------------:|
+| ion-side-menus | ionic-side-menus |
+
 
 <h2 id="navigation">Navigation</h2>
 
-Component | Snippet Code
-_________ | ____________
-ion-nav-view | ionic-nav-view
-ion-view | ionic-view
-ion-nav-buttons Left | ionic-nav-buttons:left
-ion-nav-buttons Right | ionic-nav-buttons:right
-ion-nav-back-button | ionic-nav-back-button
+| Component             | Snippet Code            |
+|-----------------------| :----------------------:|
+| ion-nav-view          | ionic-nav-view          | 
+| ion-view              | ionic-view              |
+| ion-nav-buttons Left  | ionic-nav-buttons:left  |
+| ion-nav-buttons Right | ionic-nav-buttons:right |
+| ion-nav-back-button   | ionic-nav-back-button   |
 
 <h2 id="tabs">Header Bar/Footer Bar</h2>
 
-Component | Snippet Code
-_________ | ____________
-ion-header-bar | ionic-footer-bar
-ion-footer-bar | ionic-header-bar
+| Component      | Snippet Code     |
+| ---------------| :---------------:|
+| ion-header-bar | ionic-footer-bar |
+| ion-footer-bar | ionic-header-bar |
 
 <h2 id="list">List</h2>
 
-Component | Snippet Code
-_________ | ____________
-ion-list | ionic-list
+| Component | Snippet Code |
+| ----------| :-----------:|
+| ion-list  | ionic-list   |
 
 <h2 id="forms">Forms</h2>
 
-Component | Snippet Code
-_________ | ____________
-ion-checkbox | ionic-checkbox
-ion-radio | ionic-radio
-ion-toggle | ionic-toggle
+| Component    | Snippet Code   |   
+| -------------| :-------------:|
+| ion-checkbox | ionic-checkbox |
+| ion-radio    | ionic-radio    |
+| ion-toggle   | ionic-toggle   |   
+
 
 <h2 id="slide">List</h2>
 
-Component | Snippet Code
-_________ | ____________
-ion-slide-box | ionic-slide-box
-ion-slide | ionic-slide
+| Component     | Snippet Code    |
+| --------------| :--------------:|
+| ion-slide-box | ionic-slide-box |
+| ion-slide     | ionic-slide     |
 
 ## License
 
