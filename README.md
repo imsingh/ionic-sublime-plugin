@@ -24,7 +24,7 @@ Feel Free to let me know about issues via :
 | Component | Snippet Code |
 |---------- | :-----------:|
 | ion-tabs  | ionic-tabs   |
-| tab       | ionic-tab    |
+| ion-tab   | ionic-tab    |
 
 
 <h2 id="sidemenu">Side Menu</h2>
