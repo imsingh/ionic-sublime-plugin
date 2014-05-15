@@ -48,8 +48,8 @@ Feel Free to let me know about issues via :
 
 | Component      | Snippet Code     |
 | ---------------| :---------------:|
-| ion-header-bar | ionic-footer-bar |
-| ion-footer-bar | ionic-header-bar |
+| ion-header-bar | ionic-header-bar |
+| ion-footer-bar | ionic-footer-bar |
 
 <h2 id="list">List</h2>
 
