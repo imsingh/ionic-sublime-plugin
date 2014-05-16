@@ -7,12 +7,16 @@ Feel Free to let me know about issues via :
 
 * [Issues](https://github.com/imsingh/ionic-sublime-plugin/issues)
 
+If you like this plugin and want to donate a penny :
+
+* [Donate](https://www.gittip.com/on/github/imsingh/)
+
 # What's Included - Content
 
 * [Tabs](https://github.com/imsingh/ionic-sublime-plugin#tabs)
 * [Side Menu](https://github.com/imsingh/ionic-sublime-plugin#sidemenu)
 * [Navigation](https://github.com/imsingh/ionic-sublime-plugin#navigation)
-* [Header Bar/Footer Bar] (https://github.com/imsingh/ionic-sublime-plugin#header)
+* [Header Bar/Footer Bar](https://github.com/imsingh/ionic-sublime-plugin#header)
 * [List](https://github.com/imsingh/ionic-sublime-plugin#list)
 * [Forms](https://github.com/imsingh/ionic-sublime-plugin#forms)
 * [Slide](https://github.com/imsingh/ionic-sublime-plugin#slide)
