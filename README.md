@@ -25,7 +25,7 @@ git clone https://github.com/imsingh/ionic-sublime-plugin.git
 ## What's Included - Content
 
 ### AngularJS Directive based Ionic Snippets
-#### These directives will work only in HTML Files
+#### These snippets will work only in HTML Files
 
 * [Tabs](#tabs)
 * [Side Menu](#sidemenu)
@@ -39,7 +39,7 @@ git clone https://github.com/imsingh/ionic-sublime-plugin.git
 * [Popover](#popover)
 
 ### Simple HTML Ionic Snippets
-#### These directives will work only in HTML Files
+#### These snippets will work only in HTML Files
 
 #### If you don't want or don't need to use AngularJS directives and only want to use Ionic's CSS than you should use following snippets.
 
@@ -134,7 +134,7 @@ git clone https://github.com/imsingh/ionic-sublime-plugin.git
 | ion-toggle   				| ionic-toggle   			|
 | ion-checkbox with theme	| ionic-checkbox:themecolor	|   
 
-### You can use any themecolor like light,stable,positive,calm,balanced,energized,assertive,royal,dark, in place of ##themecolor in above table.
+##### You can use any themecolor like light,stable,positive,calm,balanced,energized,assertive,royal,dark, in place of ##themecolor in above table.
 
 <h2 id="slidebox">Slide Box</h2>
 
@@ -152,7 +152,7 @@ git clone https://github.com/imsingh/ionic-sublime-plugin.git
 
 ## Simple HTML Ionic Snippets
 
-### You can use any themecolor like light,stable,positive,calm,balanced,energized,assertive,royal,dark, in place of ##themecolor in following tables.
+##### You can use any themecolor like light,stable,positive,calm,balanced,energized,assertive,royal,dark, in place of ##themecolor in following tables.
 
 Example : ionic-css-footer:calm for calm theme footer.
 
@@ -229,7 +229,7 @@ Example : ionic-css-footer:calm for calm theme footer.
 | Toggle Default Theme     		| ionic-css-toggle    	 	 				| 
 | Toggle with Theme				| ionic-css-toggle:themecolor				|
 
-### You can use any themecolor like light,stable,positive,calm,balanced,energized,assertive,royal,dark, in place of ##themecolor in above table.
+##### You can use any themecolor like light,stable,positive,calm,balanced,energized,assertive,royal,dark, in place of ##themecolor in above table.
 
 <h2 id="csscheckbox">Checkbox</h2>
 
@@ -238,7 +238,7 @@ Example : ionic-css-footer:calm for calm theme footer.
 | Checkbox Default Theme     		| ionic-css-checkbox    	 	 			| 
 | Checkbox with Theme				| ionic-css-checkbox:themecolor				|
 
-### You can use any themecolor like light,stable,positive,calm,balanced,energized,assertive,royal,dark, in place of ##themecolor in above table.
+##### You can use any themecolor like light,stable,positive,calm,balanced,energized,assertive,royal,dark, in place of ##themecolor in above table.
 
 <h2 id="cssradio">Radio Buttons</h2>
 
@@ -253,7 +253,7 @@ Example : ionic-css-footer:calm for calm theme footer.
 | Range Default Theme     			| ionic-css-range	    	 	 			| 
 | Range with Theme					| ionic-css-range:themecolor				|
 
-### You can use any themecolor like light,stable,positive,calm,balanced,energized,assertive,royal,dark, in place of ##themecolor in above table.
+##### You can use any themecolor like light,stable,positive,calm,balanced,energized,assertive,royal,dark, in place of ##themecolor in above table.
 
 <h2 id="cssselect">Select</h2>
 
@@ -274,7 +274,7 @@ Example : ionic-css-footer:calm for calm theme footer.
 | Tabs with Left Icon			| ionic-css-tabs-iconleft					|
 | Tabs with Left Icon & Theme	| ionic-css-tabs-iconleft:themecolor		|
 
-### You can use any themecolor like light,stable,positive,calm,balanced,energized,assertive,royal,dark, in place of ##themecolor in above table.
+##### You can use any themecolor like light,stable,positive,calm,balanced,energized,assertive,royal,dark, in place of ##themecolor in above table.
 
 ## JS Code Snippets for Ionic
 ### Theme Snippets will work only in JS File
