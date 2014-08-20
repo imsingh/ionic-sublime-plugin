@@ -1,0 +1,19 @@
+<snippet>
+	<content><![CDATA[
+<ion-content ng-controller="${1:Content}Ctrl">
+  <div class="list">
+    <div class="item my-item"
+      collection-repeat="${2:item} in ${3:items}"
+      collection-item-width="'${4:100%}'"
+      collection-item-height="getItemHeight(${2:item}, $index)"
+      ng-style="{height: getItemHeight(${2:item} , $index)}">
+      {{${2:item} }}
+    </div>
+  </div>
+</ion-content>
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>ionic-collection-repeat</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>text.html</scope>
+</snippet>

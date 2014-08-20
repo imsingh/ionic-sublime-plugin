@@ -1,0 +1,20 @@
+<snippet>
+	<content><![CDATA[
+<ion-slide-box on-slide-changed="${1:slideHasChanged}(\${2:index})">
+  <ion-slide>
+    <div class="box blue"><h1>${3:BLUE}</h1></div>
+  </ion-slide>
+  <ion-slide>
+    <div class="box yellow"><h1>${4:YELLOW}</h1></div>
+  </ion-slide>
+  <ion-slide>
+    <div class="box pink"><h1>${5:PINK}</h1></div>
+  </ion-slide>
+</ion-slide-box>
+
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>ionic-slide-box</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>text.html</scope>
+</snippet>

@@ -1,0 +1,19 @@
+<snippet>
+	<content><![CDATA[
+<div class="tabs tabs-icon-only tabs-balanced">
+  <a class="tab-item">
+    <i class="icon ion-${1:home}"></i>
+  </a>
+  <a class="tab-item">
+    <i class="icon ion-${2:star}"></i>
+  </a>
+  <a class="tab-item">
+    <i class="icon ion-${3:gear-a}"></i>
+  </a>
+</div>
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	 <tabTrigger>ionic-css-tabs-icon:balanced</tabTrigger> 
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>text.html</scope>
+</snippet>

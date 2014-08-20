@@ -1,0 +1,19 @@
+<snippet>
+	<content><![CDATA[
+<div class="list">
+  <label class="item item-input">
+    <input type="text" placeholder="${1:First Name}">
+  </label>
+  <label class="item item-input">
+    <input type="text" placeholder="${2:Last Name}">
+  </label>
+  <label class="item item-input">
+    <textarea placeholder="${3:Comments}"></textarea>
+  </label>
+</div>
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	 <tabTrigger>ionic-css-form-placeholder</tabTrigger> 
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>text.html</scope>
+</snippet>

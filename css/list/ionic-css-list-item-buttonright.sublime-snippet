@@ -1,0 +1,14 @@
+<snippet>
+	<content><![CDATA[
+<div class="item item-button-right">
+    Ionic
+    <button class="button button-stable">
+      <i class="icon ion-${1:ionic}"></i>
+    </button>
+</div>
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>ionic-css-list-item:buttonright</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>text.html</scope>
+</snippet>

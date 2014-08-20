@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[
+<button class="button button-light button-small">
+	${1: button-light}
+</button>
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>ionic-css-button-small:light</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>text.html</scope>
+</snippet>

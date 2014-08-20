@@ -1,0 +1,22 @@
+<snippet>
+	<content><![CDATA[
+<div class="list">
+
+  <label class="item item-input item-select">
+    <div class="input-label">
+      ${1:Lightsaber}
+    </div>
+    <select>
+      <option>${2:Blue}</option>
+      <option selected>${3:Green}</option>
+      <option>${4:Red}</option>
+    </select>
+  </label>
+
+</div>
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>ionic-css-select</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>text.html</scope>
+</snippet>

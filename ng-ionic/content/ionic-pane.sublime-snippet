@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[
+<ion-pane>
+  ${1: Challenge Accepted! :P}
+</ion-pane>
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>ionic-pane</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>text.html</scope>
+</snippet>

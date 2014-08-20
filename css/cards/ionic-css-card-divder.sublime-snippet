@@ -1,0 +1,13 @@
+<snippet>
+	<content><![CDATA[
+<div class="item item-divider">
+    I'm a Header in a Card!
+</div>
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>ionic-css-card:divider</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>text.html</scope>
+</snippet>
+
+

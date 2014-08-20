@@ -1,0 +1,22 @@
+<snippet>
+	<content><![CDATA[
+<ion-content
+    [delegate-handle="${1:}"]
+    [direction="${2:}"]
+    [padding="${3:}"]
+    [scroll="${4:}"]
+    [overflow-scroll="${5:}"]
+    [scrollbar-x="${6:}"]
+    [scrollbar-y="${7:}"]
+    [start-y="${8:}"]
+    [on-scroll="${9:}"]
+    [on-scroll-complete="${10:}"]
+    [has-bouncing="${11:}"]>
+  ${12:...}
+  </ion-content>
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>ionic-content</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>text.html</scope>
+</snippet>

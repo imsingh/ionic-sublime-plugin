@@ -1,0 +1,16 @@
+<snippet>
+	<content><![CDATA[
+<div class="list list-inset">
+  <label class="item item-input">
+    <input type="text" placeholder="${1:First Name}">
+  </label>
+  <label class="item item-input">
+    <input type="text" placeholder="${2:Last Name}">
+  </label>
+</div>
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	 <tabTrigger>ionic-css-form-inset</tabTrigger> 
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>text.html</scope>
+</snippet>

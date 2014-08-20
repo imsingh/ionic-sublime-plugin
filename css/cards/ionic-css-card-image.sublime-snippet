@@ -1,0 +1,26 @@
+<snippet>
+	<content><![CDATA[
+<div class="list card">
+
+  <div class="item item-avatar">
+    <img src="${1:avatar}.jpg">
+    <h2>${2:Pretty Hate Machine}</h2>
+    <p>${3:Nine Inch Nails}</p>
+  </div>
+
+  <div class="item item-image">
+    <img src="${4:cover}.jpg">
+  </div>
+
+  <a class="item item-icon-left assertive" href="${5:#}">
+    <i class="icon ion-music-note"></i>
+    ${6:Start listening}
+  </a>
+
+</div>
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>ionic-css-card:image</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>text.html</scope>
+</snippet>

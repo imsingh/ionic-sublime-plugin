@@ -1,0 +1,45 @@
+<snippet>
+	<content><![CDATA[
+<div class="list card">
+
+  <div class="item item-avatar">
+    <img src="${1:mcfly}.jpg">
+    <h2>${2:Marty McFly}</h2>
+    <p>${3:November 05, 1955}</p>
+  </div>
+
+  <div class="item item-body">
+    <img class="full-image" src="${4:delorean}.jpg">
+    <p>
+      ${5:This is a "Facebook" styled Card. The header is created from a Thumbnail List item,
+      the content is from a card-body consisting of an image and paragraph text. The footer
+      consists of tabs, icons aligned left, within the card-footer.}
+    </p>
+    <p>
+      <a href="${6:#}" class="subdued">${7:1 Like}</a>
+      <a href="${8:#}" class="subdued">${9:5 Comments}</a>
+    </p>
+  </div>
+
+  <div class="item tabs tabs-secondary tabs-icon-left">
+    <a class="tab-item" href="${10:#}">
+      <i class="icon ion-thumbsup"></i>
+      ${11:Like}
+    </a>
+    <a class="tab-item" href="${12:#}">
+      <i class="icon ion-chatbox"></i>
+      ${13:Comment}
+    </a>
+    <a class="tab-item" href="${14:#}">
+      <i class="icon ion-share"></i>
+      ${15:Share}
+    </a>
+  </div>
+
+</div>
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>ionic-css-card:showcase</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>text.html</scope>
+</snippet>

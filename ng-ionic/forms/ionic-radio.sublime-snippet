@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[
+<ion-radio ng-model="${1:choice}" ng-value="'${2:}'">${3:Label}</ion-radio>
+<ion-radio ng-model="${4:choice}" ng-value="'${5:}'">${6:Label}</ion-radio>
+
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>ionic-radio</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>text.html</scope>
+</snippet>

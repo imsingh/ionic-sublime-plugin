@@ -1,0 +1,19 @@
+<snippet>
+	<content><![CDATA[
+<div class="tabs tabs-energized">
+  <a class="tab-item">
+    ${1:Home}
+  </a>
+  <a class="tab-item">
+    ${2:Favorites}
+  </a>
+  <a class="tab-item">
+    ${3:Settings}
+  </a>
+</div>
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	 <tabTrigger>ionic-css-tabs:energized</tabTrigger> 
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>text.html</scope>
+</snippet>

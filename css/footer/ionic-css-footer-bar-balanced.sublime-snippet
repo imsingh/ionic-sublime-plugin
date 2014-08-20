@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[
+<div class="bar bar-footer bar-balanced">
+	<h1 class="title">${1: Footer-balanced}</h1>
+</div>
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>ionic-css-footer:balanced</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>text.html</scope>
+</snippet>
