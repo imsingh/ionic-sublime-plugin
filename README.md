@@ -43,25 +43,25 @@ git clone https://github.com/imsingh/ionic-sublime-plugin.git
 
 #### If you don't want or don't need to use AngularJS directives and only want to use Ionic's CSS than you should use following snippets.
 
-* [Header Bar/Footer Bar (HTML)](#cssheader)
-* [Buttons (HTML)](#cssbuttons)
-* [List(HTML)](#csslist)
-* [Cards (HTML)](#csscards)
-* [Forms (HTML)](#cssforms)
-* [Toggle(HTML)](#csstoggle)
-* [Checkbox (HTML)](#csscheckbox)
-* [Radio Buttons (HTML)](#cssradio)
-* [Range (HTML)](#cssrange)
-* [Select (HTML)](#cssselect)
-* [Tabs (HTML)](#csstabs)
+* [Header Bar/Footer Bar](#cssheader)
+* [Buttons](#cssbuttons)
+* [List](#csslist)
+* [Cards](#csscards)
+* [Forms](#cssforms)
+* [Toggle](#csstoggle)
+* [Checkbox](#csscheckbox)
+* [Radio Buttons](#cssradio)
+* [Range](#cssrange)
+* [Select](#cssselect)
+* [Tabs](#csstabs)
 
 ### Javascript based snippets
 #### Following snippets will only work in javascript file.
 
-* [Actionsheet (JS)](#jsactionsheet)
-* [Backdrop (JS)](#jsbackdrop)
-* [Popover (JS)](#jspopover)
-* [Popup (JS)](#jspopup)
+* [Actionsheet](#jsactionsheet)
+* [Backdrop](#jsbackdrop)
+* [Popover](#jspopover)
+* [Popup](#jspopup)
 
 
 ## AngularJS Directive based Ionic Snippets
@@ -107,7 +107,7 @@ git clone https://github.com/imsingh/ionic-sublime-plugin.git
 | ion-pane           	| ionic-pane              |
 | ion-refresher 	 	| ionic-refresher		  |
 
-<h2 id="scroll">Scroll</h2>
+<h2 id="list">Scroll</h2>
 
 | Component             	| Snippet Code            |
 |---------------------------| :----------------------:|
@@ -156,7 +156,7 @@ git clone https://github.com/imsingh/ionic-sublime-plugin.git
 
 Example : ionic-css-footer:calm for calm theme footer.
 
-<h2 id="cssheader">Header Bar/ Footer Bar</h2>
+<h2 id="cssheader">Header & Footer Bar</h2>
 
 | Component             	| Snippet Code            		|
 |---------------------------| :----------------------------:|
@@ -166,7 +166,7 @@ Example : ionic-css-footer:calm for calm theme footer.
 | Footer Bar				| ionic-css-footer  	  		|
 | Footer Bar Theme			| ionic-css-footer:themecolor	|
 
-<h2 id="cssbuttons">Buttons</h2>
+<h2 id="cssbuttons">Buttons Snippet</h2>
 
 | Component             	| Snippet Code            					|
 |---------------------------| :----------------------------------------:|
@@ -184,7 +184,7 @@ Example : ionic-css-footer:calm for calm theme footer.
 | Clear Button Theme		| ionic-css-button-clear:themecolor			|
 
 
-<h2 id="csslist">List</h2>
+<h2 id="csslist">List Snippets</h2>
 
 | Component             		| Snippet Code            					|
 |-------------------------------| :----------------------------------------:|
@@ -200,7 +200,7 @@ Example : ionic-css-footer:calm for calm theme footer.
 | List Item with Right Thumbnail| ionic-css-list-item:thumbright			|
 | List Item with Left Thumbnail	| ionic-css-list-item:thumbleft				|
 
-<h2 id="csscards">Card</h2>
+<h2 id="csscards">Card Snippets</h2>
 
 | Component             		| Snippet Code            					|
 |-------------------------------| :----------------------------------------:|
@@ -210,7 +210,7 @@ Example : ionic-css-footer:calm for calm theme footer.
 | Card Showcase					| ionic-css-card:showcase			  		|
 | Cards with Images				| ionic-css-card:image						|
 
-<h2 id="cssforms">Form</h2>
+<h2 id="cssforms">Form Snippets</h2>
 
 | Component             		| Snippet Code            					|
 |-------------------------------| :----------------------------------------:|
@@ -222,7 +222,7 @@ Example : ionic-css-footer:calm for calm theme footer.
 | Inline Form Elements			| ionic-css-form-inline				 		|
 | Icon based Form Elements		| ionic-css-form-icon						|
 
-<h2 id="csstoggle">Toggle</h2>
+<h2 id="csstoggle">Toggle Snippets</h2>
 
 | Component             		| Snippet Code            					|
 |-------------------------------| :----------------------------------------:|
@@ -231,7 +231,7 @@ Example : ionic-css-footer:calm for calm theme footer.
 
 ##### You can use any themecolor like light,stable,positive,calm,balanced,energized,assertive,royal,dark, in place of ##themecolor in above table.
 
-<h2 id="csscheckbox">Checkbox</h2>
+<h2 id="csscheckbox">Checkbox Snippets</h2>
 
 | Component             			| Snippet Code            					|
 |-----------------------------------| :----------------------------------------:|
@@ -240,13 +240,13 @@ Example : ionic-css-footer:calm for calm theme footer.
 
 ##### You can use any themecolor like light,stable,positive,calm,balanced,energized,assertive,royal,dark, in place of ##themecolor in above table.
 
-<h2 id="cssradio">Radio Buttons</h2>
+<h2 id="cssradio">Radio Buttons Snippets</h2>
 
 | Component             			| Snippet Code            					|
 |-----------------------------------| :----------------------------------------:|
 | Radio Buttons			     		| ionic-css-radio	    	 	 			| 
 
-<h2 id="cssrange">Range</h2>
+<h2 id="cssrange">Range Snippets</h2>
 
 | Component             			| Snippet Code            					|
 |-----------------------------------| :----------------------------------------:|
@@ -255,13 +255,13 @@ Example : ionic-css-footer:calm for calm theme footer.
 
 ##### You can use any themecolor like light,stable,positive,calm,balanced,energized,assertive,royal,dark, in place of ##themecolor in above table.
 
-<h2 id="cssselect">Select</h2>
+<h2 id="cssselect">Select Snippets</h2>
 
 | Component             			| Snippet Code            					|
 |-----------------------------------| :----------------------------------------:|
 | Select Element		     		| ionic-css-select	    	 	 			| 
 
-<h2 id="csstabs">Tabs</h2>
+<h2 id="csstabs">Tabs Snippets</h2>
 
 | Component             		| Snippet Code            					|
 |-------------------------------| :----------------------------------------:|
@@ -279,25 +279,25 @@ Example : ionic-css-footer:calm for calm theme footer.
 ## JS Code Snippets for Ionic
 ### Theme Snippets will work only in JS File
 
-<h2 id="jsactionsheet">Action Sheet</h2>
+<h2 id="jsactionsheet">Action Sheet JS Snippet</h2>
 
 | Component             			| Snippet Code            					|
 |-----------------------------------| :----------------------------------------:|
 | $ionicActionSheet 	     		| ionic-js-actionsheet    	 	 			|
 
-<h2 id="jsbackdrop">Backdrop</h2>
+<h2 id="jsbackdrop">Backdrop JS Snippet</h2>
 
 | Component             			| Snippet Code            					|
 |-----------------------------------| :----------------------------------------:|
 | $ionicBackdrop 	     			| ionic-js-backdrop	    	 	 			|
 
-<h2 id="jspopover">Popover</h2>
+<h2 id="jspopover">Popover JS Snippet</h2>
 
 | Component             			| Snippet Code            					|
 |-----------------------------------| :----------------------------------------:|
 | $ionicPopover	     				| ionic-js-popover	    	 	 			|
 
-<h2 id="jspopup">Popup</h2>
+<h2 id="jspopup">Popup JS Snippet</h2>
 
 | Component             			| Snippet Code            					|
 |-----------------------------------| :----------------------------------------:|
