@@ -43,25 +43,25 @@ git clone https://github.com/imsingh/ionic-sublime-plugin.git
 
 #### If you don't want or don't need to use AngularJS directives and only want to use Ionic's CSS than you should use following snippets.
 
-* [Header Bar/Footer Bar](#cssheader)
-* [Buttons](#cssbuttons)
-* [List](#csslist)
-* [Cards](#csscards)
-* [Forms](#cssforms)
-* [Toggle](#csstoggle)
-* [Checkbox](#csscheckbox)
-* [Radio Buttons](#cssradio)
-* [Range](#cssrange)
-* [Select](#cssselect)
-* [Tabs](#csstabs)
+* [Header Bar/Footer Bar (HTML)](#cssheader)
+* [Buttons (HTML)](#cssbuttons)
+* [List(HTML)](#csslist)
+* [Cards (HTML)](#csscards)
+* [Forms (HTML)](#cssforms)
+* [Toggle(HTML)](#csstoggle)
+* [Checkbox (HTML)](#csscheckbox)
+* [Radio Buttons (HTML)](#cssradio)
+* [Range (HTML)](#cssrange)
+* [Select (HTML)](#cssselect)
+* [Tabs (HTML)](#csstabs)
 
 ### Javascript based snippets
 #### Following snippets will only work in javascript file.
 
-* [Actionsheet](#jsactionsheet)
-* [Backdrop](#jsbackdrop)
-* [Popover](#jspopover)
-* [Popup](#jspopup)
+* [Actionsheet (JS)](#jsactionsheet)
+* [Backdrop (JS)](#jsbackdrop)
+* [Popover (JS)](#jspopover)
+* [Popup (JS)](#jspopup)
 
 
 ## AngularJS Directive based Ionic Snippets
@@ -107,7 +107,7 @@ git clone https://github.com/imsingh/ionic-sublime-plugin.git
 | ion-pane           	| ionic-pane              |
 | ion-refresher 	 	| ionic-refresher		  |
 
-<h2 id="list">Scroll</h2>
+<h2 id="scroll">Scroll</h2>
 
 | Component             	| Snippet Code            |
 |---------------------------| :----------------------:|
