@@ -156,7 +156,7 @@ git clone https://github.com/imsingh/ionic-sublime-plugin.git
 
 Example : ionic-css-footer:calm for calm theme footer.
 
-<h2 id="cssheader">Header & Footer Bar</h2>
+<h2 name="cssheader">Header & Footer Bar</h2>
 
 | Component             	| Snippet Code            		|
 |---------------------------| :----------------------------:|
@@ -166,7 +166,7 @@ Example : ionic-css-footer:calm for calm theme footer.
 | Footer Bar				| ionic-css-footer  	  		|
 | Footer Bar Theme			| ionic-css-footer:themecolor	|
 
-<h2 id="cssbuttons">Buttons Snippet</h2>
+<h2 name="cssbuttons">Buttons Snippet</h2>
 
 | Component             	| Snippet Code            					|
 |---------------------------| :----------------------------------------:|
@@ -184,7 +184,7 @@ Example : ionic-css-footer:calm for calm theme footer.
 | Clear Button Theme		| ionic-css-button-clear:themecolor			|
 
 
-<h2 id="csslist">List Snippets</h2>
+<h2 name="csslist">List Snippets</h2>
 
 | Component             		| Snippet Code            					|
 |-------------------------------| :----------------------------------------:|
