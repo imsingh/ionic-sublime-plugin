@@ -30,12 +30,12 @@ git clone https://github.com/imsingh/ionic-sublime-plugin.git
 * [Tabs](#tabs)
 * [Side Menu](#sidemenu)
 * [Navigation](#navigation)
-* [Header Bar/Footer Bar](#header)
+* [Header Bar/Footer Bar](https://github.com/imsingh/ionic-sublime-plugin#header)
 * [Content](#content)
 * [Scroll](#scroll)
 * [List](#list)
 * [Forms](#forms)
-* [Slide Box](#slidebox)
+* [Slide Box](#slide-box)
 * [Popover](#popover)
 
 ### Simple HTML Ionic Snippets
@@ -43,7 +43,7 @@ git clone https://github.com/imsingh/ionic-sublime-plugin.git
 
 #### If you don't want or don't need to use AngularJS directives and only want to use Ionic's CSS than you should use following snippets.
 
-* [Header Bar/Footer Bar](#cssheader)
+* [Header Bar & Footer Bar](#cssheader)
 * [Buttons](#cssbuttons)
 * [List](#csslist)
 * [Cards](#csscards)
