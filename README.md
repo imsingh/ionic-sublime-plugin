@@ -86,7 +86,8 @@ git clone https://github.com/imsingh/ionic-sublime-plugin.git
 
 | Component             | Snippet Code            |
 |-----------------------| :----------------------:|
-| ion-nav-view          | ionic-nav-view          | 
+| ion-nav-bar           | ionic-nav-bar          |
+| ion-nav-view          | ionic-nav-view          |
 | ion-view              | ionic-view              |
 | ion-nav-buttons Left  | ionic-nav-buttons:left  |
 | ion-nav-buttons Right | ionic-nav-buttons:right |
@@ -103,7 +104,7 @@ git clone https://github.com/imsingh/ionic-sublime-plugin.git
 
 | Component             | Snippet Code            |
 |-----------------------| :----------------------:|
-| ion-content          	| ionic-content	          | 
+| ion-content          	| ionic-content	          |
 | ion-pane           	| ionic-pane              |
 | ion-refresher 	 	| ionic-refresher		  |
 
@@ -111,7 +112,7 @@ git clone https://github.com/imsingh/ionic-sublime-plugin.git
 
 | Component             	| Snippet Code            |
 |---------------------------| :----------------------:|
-| ion-scroll	           	| ionic-scroll         	  | 
+| ion-scroll	           	| ionic-scroll         	  |
 | ion-infinite-scroll		| ionic-infinite-scrol	  |
 
 
@@ -119,7 +120,7 @@ git clone https://github.com/imsingh/ionic-sublime-plugin.git
 
 | Component             	| Snippet Code            |
 |---------------------------| :----------------------:|
-| ion-list	            	| ionic-list         	  | 
+| ion-list	            	| ionic-list         	  |
 | ion-item					| ionic-item			  |
 | ion-reorder-button		| ionic-reorder-button	  |
 | ion-option-button			| ionic-option-button	  |
@@ -127,12 +128,12 @@ git clone https://github.com/imsingh/ionic-sublime-plugin.git
 
 <h2 id="forms">Forms</h2>
 
-| Component    				| Snippet Code   			|		   
+| Component    				| Snippet Code   			|
 | --------------------------| :------------------------:|
 | ion-checkbox 				| ionic-checkbox 			|
 | ion-radio    				| ionic-radio    			|
 | ion-toggle   				| ionic-toggle   			|
-| ion-checkbox with theme	| ionic-checkbox:themecolor	|   
+| ion-checkbox with theme	| ionic-checkbox:themecolor	|
 
 ##### You can use any themecolor like light,stable,positive,calm,balanced,energized,assertive,royal,dark, in place of ##themecolor in above table.
 
@@ -145,7 +146,7 @@ git clone https://github.com/imsingh/ionic-sublime-plugin.git
 
 <h2 id="popover">Popover</h2>
 
-| Component    				| Snippet Code   			|		   
+| Component    				| Snippet Code   			|
 | --------------------------| :------------------------:|
 | ion-popover-view			| ionic-popover 			|
 
@@ -160,7 +161,7 @@ Example : ionic-css-footer:calm for calm theme footer.
 
 | Component             	| Snippet Code            		|
 |---------------------------| :----------------------------:|
-| Header Bar	           	| ionic-css-header     	 	 	| 
+| Header Bar	           	| ionic-css-header     	 	 	|
 | Header Bar Theme			| ionic-css-header:themecolor	|
 | Sub Header Bar			| ionic-css-subheader	  		|
 | Footer Bar				| ionic-css-footer  	  		|
@@ -170,11 +171,11 @@ Example : ionic-css-footer:calm for calm theme footer.
 
 | Component             	| Snippet Code            					|
 |---------------------------| :----------------------------------------:|
-| Button		           	| ionic-css-button     	 	 				| 
+| Button		           	| ionic-css-button     	 	 				|
 | Button Theme				| ionic-css-button:themecolor				|
 | Full Width Button			| ionic-css-button-full	  					|
 | Full Width Button Theme	| ionic-css-button-full:themecolor 	  		|
-| Large Button				| ionic-css-button-large					|	
+| Large Button				| ionic-css-button-large					|
 | Large Button Theme		| ionic-css-button-large:themecolor 		|
 | Small Button				| ionic-css-button-small					|
 | Small Button Theme		| ionic-css-button-small:themecolor			|
@@ -188,11 +189,11 @@ Example : ionic-css-footer:calm for calm theme footer.
 
 | Component             		| Snippet Code            					|
 |-------------------------------| :----------------------------------------:|
-| List			           		| ionic-css-list    	 	 				| 
+| List			           		| ionic-css-list    	 	 				|
 | List Inset					| ionic-css-list:inset						|
 | List Item						| ionic-css-list:item	  					|
 | List Divider					| ionic-css-list:divider			  		|
-| List Item with Avatar			| ionic-css-list-item:avatar				|	
+| List Item with Avatar			| ionic-css-list-item:avatar				|
 | List Item with Left Button	| ionic-css-list-item:buttonleft	 		|
 | List Item with Right Button	| ionic-css-list-item:buttonright			|
 | List Item with Left Icon		| ionic-css-list-item:iconright				|
@@ -204,7 +205,7 @@ Example : ionic-css-footer:calm for calm theme footer.
 
 | Component             		| Snippet Code            					|
 |-------------------------------| :----------------------------------------:|
-| Card			           		| ionic-css-card    	 	 				| 
+| Card			           		| ionic-css-card    	 	 				|
 | Card List						| ionic-css-card:list						|
 | Card Divider					| ionic-css-card:divider  					|
 | Card Showcase					| ionic-css-card:showcase			  		|
@@ -214,11 +215,11 @@ Example : ionic-css-footer:calm for calm theme footer.
 
 | Component             		| Snippet Code            					|
 |-------------------------------| :----------------------------------------:|
-| Floating Form Element        	| ionic-css-form-floating 	 				| 
+| Floating Form Element        	| ionic-css-form-floating 	 				|
 | Stacked Form Element			| ionic-css-form-stacked					|
 | Inset	Form					| ionic-css-form-inset	  					|
 | Placeholder Form Element		| ionic-css-form-placehoder			  		|
-| Header Form Elements			| ionic-css-form-header						|	
+| Header Form Elements			| ionic-css-form-header						|
 | Inline Form Elements			| ionic-css-form-inline				 		|
 | Icon based Form Elements		| ionic-css-form-icon						|
 
@@ -226,7 +227,7 @@ Example : ionic-css-footer:calm for calm theme footer.
 
 | Component             		| Snippet Code            					|
 |-------------------------------| :----------------------------------------:|
-| Toggle Default Theme     		| ionic-css-toggle    	 	 				| 
+| Toggle Default Theme     		| ionic-css-toggle    	 	 				|
 | Toggle with Theme				| ionic-css-toggle:themecolor				|
 
 ##### You can use any themecolor like light,stable,positive,calm,balanced,energized,assertive,royal,dark, in place of ##themecolor in above table.
@@ -235,7 +236,7 @@ Example : ionic-css-footer:calm for calm theme footer.
 
 | Component             			| Snippet Code            					|
 |-----------------------------------| :----------------------------------------:|
-| Checkbox Default Theme     		| ionic-css-checkbox    	 	 			| 
+| Checkbox Default Theme     		| ionic-css-checkbox    	 	 			|
 | Checkbox with Theme				| ionic-css-checkbox:themecolor				|
 
 ##### You can use any themecolor like light,stable,positive,calm,balanced,energized,assertive,royal,dark, in place of ##themecolor in above table.
@@ -244,13 +245,13 @@ Example : ionic-css-footer:calm for calm theme footer.
 
 | Component             			| Snippet Code            					|
 |-----------------------------------| :----------------------------------------:|
-| Radio Buttons			     		| ionic-css-radio	    	 	 			| 
+| Radio Buttons			     		| ionic-css-radio	    	 	 			|
 
 <h2 name="cssrange">Range Snippets</h2>
 
 | Component             			| Snippet Code            					|
 |-----------------------------------| :----------------------------------------:|
-| Range Default Theme     			| ionic-css-range	    	 	 			| 
+| Range Default Theme     			| ionic-css-range	    	 	 			|
 | Range with Theme					| ionic-css-range:themecolor				|
 
 ##### You can use any themecolor like light,stable,positive,calm,balanced,energized,assertive,royal,dark, in place of ##themecolor in above table.
@@ -259,17 +260,17 @@ Example : ionic-css-footer:calm for calm theme footer.
 
 | Component             			| Snippet Code            					|
 |-----------------------------------| :----------------------------------------:|
-| Select Element		     		| ionic-css-select	    	 	 			| 
+| Select Element		     		| ionic-css-select	    	 	 			|
 
 <h2 name="csstabs">Tabs Snippets</h2>
 
 | Component             		| Snippet Code            					|
 |-------------------------------| :----------------------------------------:|
-| Tabs		        			| ionic-css-tabs     	 	 				| 
+| Tabs		        			| ionic-css-tabs     	 	 				|
 | Tabs with Theme				| ionic-css-tabs:themecolor					|
 | Tabs with Icon				| ionic-css-tabs-icon	  					|
 | Tabs with Icon & Theme		| ionic-css-tabs-icon:themecolor 	  		|
-| Tabs with Top Icon			| ionic-css-tabs-icontop					|	
+| Tabs with Top Icon			| ionic-css-tabs-icontop					|
 | Tabs with Top Icon & Theme	| ionic-css-tabs-icontop:themecolor 		|
 | Tabs with Left Icon			| ionic-css-tabs-iconleft					|
 | Tabs with Left Icon & Theme	| ionic-css-tabs-iconleft:themecolor		|
