@@ -1,7 +1,6 @@
 <snippet>
-	<content><![CDATA[
+  <content><![CDATA[
 <div class="list card">
-
   <div class="item item-avatar">
     <img src="${1:mcfly}.jpg">
     <h2>${2:Marty McFly}</h2>
@@ -35,11 +34,10 @@
       ${15:Share}
     </a>
   </div>
-
 </div>
 ]]></content>
-	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-	<tabTrigger>ionic-css-card:showcase</tabTrigger>
-	<!-- Optional: Set a scope to limit where the snippet will trigger -->
-	<scope>text.html</scope>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>ionic-css-card:showcase</tabTrigger>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <scope>text.html</scope>
 </snippet>

@@ -1,20 +1,20 @@
 Welcome to Ionic Framework Snippet, a snippet plugin for Ionic Mobile Apps Developmenet.
 
-	* * * Important * * *
+  * * * Important * * *
 
 
 If you like the plugin, please consider a star for my github repo at : https://github.com/imsingh/ionic-sublime-plugin
 
 and post a tweet with "I love Ionic Framework Snippets Plugin @imsinghk7 @ionicframework"
 
- 
+
 I spend time to make sure this plugin works well for Ionic Developers.
 I tried to make sure that snippets does increase the productivity of devlopers.
 
 
 If you have any suggestions or want some changes please start a issue at https://github.com/imsingh/ionic-sublime-plugin/issues
 
-	* * * Read The Docs * * * 
+  * * * Read The Docs * * *
 
 Please read the Docs of this repo or Readme File for make yourself comfortable with Snippets.
 

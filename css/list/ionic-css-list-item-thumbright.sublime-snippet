@@ -1,13 +1,13 @@
 <snippet>
-	<content><![CDATA[
+  <content><![CDATA[
 <a class="item item-thumbnail-right" href="#">
-    <img src="${1:#}">
-    <h2>Thumbnail</h2>
-    <p>I am Crazy.</p>
+  <img src="${1:#}">
+  <h2>Thumbnail</h2>
+  <p>I am Crazy.</p>
 </a>
 ]]></content>
-	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-	<tabTrigger>ionic-css-list-item:thumbright</tabTrigger>
-	<!-- Optional: Set a scope to limit where the snippet will trigger -->
-	<scope>text.html</scope>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>ionic-css-list-item:thumbright</tabTrigger>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <scope>text.html</scope>
 </snippet>

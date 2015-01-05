@@ -1,33 +1,29 @@
 <snippet>
-	<content><![CDATA[
+  <content><![CDATA[
 <div class="list card">
-
   <a href="#" class="item item-icon-left">
     <i class="icon ion-home"></i>
-    ${1: First Item}
+    ${1:First Item}
   </a>
 
   <a href="#" class="item item-icon-left">
     <i class="icon ion-ios7-telephone"></i>
-    ${2: Second Item}
+    ${2:Second Item}
   </a>
 
   <a href="#" class="item item-icon-left">
     <i class="icon ion-wifi"></i>
-    ${3: Third Item}
+    ${3:Third Item}
   </a>
 
   <a href="#" class="item item-icon-left">
     <i class="icon ion-card"></i>
-    ${4: Fourth Item}
+    ${4:Fourth Item}
   </a>
-
 </div>
 ]]></content>
-	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-	<tabTrigger>ionic-css-card:list</tabTrigger>
-	<!-- Optional: Set a scope to limit where the snippet will trigger -->
-	<scope>text.html</scope>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>ionic-css-card:list</tabTrigger>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <scope>text.html</scope>
 </snippet>
-
-

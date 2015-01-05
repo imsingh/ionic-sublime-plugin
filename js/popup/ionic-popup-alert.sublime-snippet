@@ -1,20 +1,17 @@
 <snippet>
-	<content><![CDATA[
-
-$scope.showAlert = function() {
-   var alertPopup = $ionicPopup.alert({
-     title: '${1:Popup Title}',
-     template: '${2:Its Content}'
-   });
-   alertPopup.then(function(res) {
-     console.log('${3:Thank you for not eating my delicious ice cream cone}');
-   });
- };
+  <content><![CDATA[
+\$scope.showAlert = function() {
+  var alertPopup = \$ionicPopup.alert({
+    title: '${1:Popup Title}',
+    template: '${2:Its Content}'
+  });
+  alertPopup.then(function(res) {
+    console.log('${3:Thank you for not eating my delicious ice cream cone}');
+  });
 });
-
 ]]></content>
-	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-	<tabTrigger>ionic-js-popup:alert</tabTrigger>
-	<!-- Optional: Set a scope to limit where the snippet will trigger -->
-	 <scope>source.js</scope>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>ionic-js-popup:alert</tabTrigger>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <scope>source.js</scope>
 </snippet>
