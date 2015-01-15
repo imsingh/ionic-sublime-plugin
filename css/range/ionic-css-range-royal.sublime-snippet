@@ -1,13 +1,13 @@
 <snippet>
-	<content><![CDATA[
+  <content><![CDATA[
 <div class="range range-royal">
   <i class="icon ion-ios7-ionic-outline"></i>
   <input type="range" name="${1:name}">
   <i class="icon ion-ionic"></i>
 </div>
 ]]></content>
-	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-	<tabTrigger>ionic-css-range:royal</tabTrigger>
-	<!-- Optional: Set a scope to limit where the snippet will trigger -->
-	<scope>text.html</scope>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>ionic-css-range:royal</tabTrigger>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <scope>text.html</scope>
 </snippet>

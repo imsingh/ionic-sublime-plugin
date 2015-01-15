@@ -1,21 +1,21 @@
 <snippet>
-	<content><![CDATA[
+  <content><![CDATA[
 <ul class="list">
-    <li class="item">
-     ${1: First Item}
-    </li>
+  <li class="item">
+    ${1:First Item}
+  </li>
 
-    <li class="item">
-     ${2: Second Item}
-    </li>
+  <li class="item">
+    ${2:Second Item}
+  </li>
 
-    <li class="item">
-     ${3: Third Item}
-    </li>
+  <li class="item">
+    ${3:Third Item}
+  </li>
 </ul>
 ]]></content>
-	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-	<tabTrigger>ionic-css-list</tabTrigger>
-	<!-- Optional: Set a scope to limit where the snippet will trigger -->
-	<scope>text.html</scope>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>ionic-css-list</tabTrigger>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <scope>text.html</scope>
 </snippet>

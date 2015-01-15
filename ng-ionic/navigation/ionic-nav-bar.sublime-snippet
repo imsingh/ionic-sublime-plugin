@@ -1,6 +1,7 @@
 <snippet>
   <content><![CDATA[
 <ion-nav-bar class="bar-positive">
+  ${0}
 </ion-nav-bar>
 ]]></content>
   <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->

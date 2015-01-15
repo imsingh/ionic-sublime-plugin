@@ -1,16 +1,16 @@
 <snippet>
-	<content><![CDATA[
-<ion-list ng-controller="${1:My}Ctrl">
+  <content><![CDATA[
+<ion-list ng-controller="${1:MyCtrl}">
   <ion-item ng-repeat="${2:item} in ${3:items}">
-    ${4:Item} 
+    ${4:Item}
     <ion-reorder-button class="ion-navicon"
-              on-reorder="moveItem(item, $fromIndex, $toIndex)">
+        on-reorder="moveItem(item, \$fromIndex, \$toIndex)">
     </ion-reorder>
   </ion-item>
 </ion-list>
 ]]></content>
-	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-	<tabTrigger>ionic-reorder-button</tabTrigger>
-	<!-- Optional: Set a scope to limit where the snippet will trigger -->
-	<scope>text.html</scope>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>ionic-reorder-button</tabTrigger>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <scope>text.html</scope>
 </snippet>

@@ -1,7 +1,7 @@
 <snippet>
-	<content><![CDATA[
+  <content><![CDATA[
 <p>
-  <button ng-click="openPopover($event)">Open Popover</button>
+  <button ng-click="openPopover(\$event)">Open Popover</button>
 </p>
 
 // You can place this template in seperate html file
@@ -15,10 +15,9 @@
     </ion-content>
   </ion-popover-view>
 </script>
-
 ]]></content>
-	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-	<tabTrigger>ionic-popover</tabTrigger>
-	<!-- Optional: Set a scope to limit where the snippet will trigger -->
-	<scope>text.html</scope>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>ionic-popover</tabTrigger>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <scope>text.html</scope>
 </snippet>

@@ -1,17 +1,17 @@
 <snippet>
-	<content><![CDATA[
-  function MyController($scope, $ionicBackdrop, $timeout) {
+  <content><![CDATA[
+function MyController(\$scope, \$ionicBackdrop, \$timeout) {
   //Show a backdrop for one second
-  $scope.action = function() {
-    $ionicBackdrop.retain();
-    $timeout(function() {
-      $ionicBackdrop.release();
+  \$scope.action = function() {
+    \$ionicBackdrop.retain();
+    \$timeout(function() {
+      \$ionicBackdrop.release();
     }, 1000);
   };
 }
 ]]></content>
-	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-	<tabTrigger>ionic-js-backdrop</tabTrigger>
-	<!-- Optional: Set a scope to limit where the snippet will trigger -->
-	<scope>source.js</scope>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>ionic-js-backdrop</tabTrigger>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <scope>source.js</scope>
 </snippet>
