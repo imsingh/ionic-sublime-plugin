@@ -306,6 +306,14 @@ Example : ionic-css-footer:calm for calm theme footer.
 | Confirm $ionicPopup 	     		| ionic-js-popup:confirm    	 	 		|
 | Prompt $ionicPopup 	     		| ionic-js-popup:prompt  	 	 			|
 
+<h2 name="jspopup">Broadcasts</h2>
+Sometimes you need to broadcast some events to Ionic complete some actions, in `ionic-broadcast-*` you can find all the events you need.
+
+| Snippet Code                     |
+|:--------------------------------:|
+| ionic-broadcast-infinite-scroll  |
+| ionic-broadcast-refresh-complete |
+
 
 ## License
 
