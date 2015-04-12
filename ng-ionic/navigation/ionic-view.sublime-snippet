@@ -1,8 +1,8 @@
 <snippet>
   <content><![CDATA[
-<ion-view view-title="Title">
+<ion-view view-title="${1:Title}">
   <ion-content>
-    Content Here
+    ${2:Content}
   </ion-content>
 </ion-view>
 ]]></content>
