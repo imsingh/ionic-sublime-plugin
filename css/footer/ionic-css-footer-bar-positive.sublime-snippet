@@ -1,11 +1,11 @@
 <snippet>
   <content><![CDATA[
-<div class="bar bar-header bar-positive">
+<div class="bar bar-footer bar-positive">
   <h1 class="title">${1:bar-positive}</h1>
 </div>
 ]]></content>
   <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-  <tabTrigger>ionic-css-header:positive</tabTrigger>
+  <tabTrigger>ionic-css-footer:positive</tabTrigger>
   <!-- Optional: Set a scope to limit where the snippet will trigger -->
   <scope>text.html</scope>
 </snippet>
