@@ -1,3 +1,5 @@
+# Deprecated - I am no longer maintaing the project. 
+
 Ionic - Sublime Plugin
 ====================
 
