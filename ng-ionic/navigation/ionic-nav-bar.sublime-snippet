@@ -1,6 +1,5 @@
 <snippet>
-  <content><![CDATA[
-<ion-nav-bar class="bar-positive">
+  <content><![CDATA[ion-nav-bar class="bar-positive">
   ${0}
 </ion-nav-bar>
 ]]></content>
